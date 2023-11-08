@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhavya C Patel
+ <h1 align="center">Hi 👋, I'm Bhavya C Patel</h1>
 
 ![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+Stack+Developer;Freelancer;Open+Source)
 
