@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya C Patel</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate ![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+stack+developer;Freelancer;Open+Source)h3>
 
 - 🌱 I’m currently learning **Java**
 
