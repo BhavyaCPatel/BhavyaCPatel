@@ -1,30 +1,19 @@
-<h1 align="center">Hi 👋, I'm Bhavya C Patel</h1>
-<h3 align="center">A passionate Full-Stack developer <h3>
+# Hi 👋, I'm Bhavya C Patel
+
+## A passionate Full-Stack developer
 
 - 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [bhavyacpatel.netlify.app](bhavyacpatel.netlify.app)
+- 📫 How to reach me: [bhavyaaes@gmail.com](mailto:bhavyaaes@gmail.com)
 
-- 📫 How to reach me **bhavyaaes@gmail.com**
+## Tech Stack
 
-<h3 align="left">Tech Stake:</h3>
-<hr>
-<p align="left"> 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyacpatel&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhavyacpatel" /></p>
+- HTML, CSS, JavaScript
+- Node.js, Express.js
+- React, Next.js
+- Tailwind CSS, Bootstrap, Material-UI
+- MongoDB
+- Python, Django
+- C, Java, Spring Boot
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=bhavyacpatel&show_icons=true&locale=en&layout=compact&theme=radical)
