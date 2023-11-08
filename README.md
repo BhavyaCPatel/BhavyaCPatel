@@ -37,3 +37,4 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyacpatel&show_icons=true&locale=en&layout=compact" alt="bhavyacpatel" /></p>
