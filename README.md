@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bhavya C Patel
 
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+stack+developer;Freelancer;Open+Source;Passionate+about+startups)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+Stack+Developer;Freelancer;Open+Source)
 
 - 🌱 I’m currently learning **Java**
 - 👨‍💻 All of my projects are available at [bhavyacpatel.netlify.app](bhavyacpatel.netlify.app)
