@@ -32,6 +32,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) &nbsp;
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+![Shad](https://img.shields.io/badge/Shad/CN-000000?style=for-the-badge) &nbsp;
+![Zod](https://img.shields.io/badge/Zod-DF3A01?style=for-the-badge) &nbsp;
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge) &nbsp;
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) &nbsp;
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=bhavyacpatel&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)
