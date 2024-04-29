@@ -2,7 +2,7 @@
 
 ![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+Stack+Developer;Freelancer;Open+Source)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Full Stack & DevOps**
 - 👨‍💻 All of my projects are available at [bhavyacpatel.netlify.app](bhavyacpatel.netlify.app)
 - 📫 How to reach me: [bhavyaaes@gmail.com](mailto:bhavyaaes@gmail.com)
 
